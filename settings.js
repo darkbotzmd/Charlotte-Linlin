@@ -7,7 +7,7 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.ownerNumber = ['6289630863482','6285803583481']
+global.ownerNumber = ['6285840701172']
 global.ownerName = 'Code Crew'
 
 global.botName = 'Charlotte Linlin'
