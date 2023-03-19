@@ -5,7 +5,7 @@
 Base Bot WhatsApp Multi Device New Version With [`Baileys`](https://github.com/adiwajshing/baileys)
 
 # Warn
-Visit [`this version`](https://github.com/NzrlAfndi/) to get a base that supports replit
+Visit [`this version`](https://github.com/NzrlAfndi/Charlotte-Linlin) to get a base that supports termux, windows, panel and others
 
 ## Note
 * If you want to make a feature but don't have the database, you can check it at [`My Database`](https://github.com/NzrlAfndi/Databasee)
