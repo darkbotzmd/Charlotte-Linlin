@@ -1,5 +1,5 @@
 ## <b><center>Charlotte Linlin</center></b>
-
+ 
 <img src="https://telegra.ph/file/71c196cc44dbe175c72c0.jpg" alt="Charlotte Linlin" width="500"/>
 
 Base Bot WhatsApp Multi Device New Version With [`Baileys`](https://github.com/adiwajshing/baileys)
